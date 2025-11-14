@@ -45,6 +45,6 @@ The dashboard includes:
 
 ## 📬 Contact
 **Muhamad Rabbani**  
-Email : muhamadrabbani98@gmail.com
+Email : muhamadrabbani555@gmail.com
 LinkedIn : www.linkedin.com/in/rabbanirazali
 GitHub : https://github.com/rabbani230
