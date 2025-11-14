@@ -1,5 +1,7 @@
 # Hotel Booking Demand Analysis
 
+## Overview
+
 This project analyzes real-world hotel booking data to uncover trends in bookings, cancellations, guest behavior, and estimated revenue — helping stakeholders in the hotel industry make data-informed decisions.
 
 ---
