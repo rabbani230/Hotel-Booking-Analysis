@@ -41,10 +41,3 @@ The dashboard includes:
 - Booking trend by month
 
 > ✔️ All queries are available in the `SQL Queries` folder
-
-
-## 📬 Contact
-**Muhamad Rabbani**  
-Email : muhamadrabbani555@gmail.com
-LinkedIn : www.linkedin.com/in/rabbanirazali
-GitHub : https://github.com/rabbani230
